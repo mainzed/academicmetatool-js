@@ -1,3 +1,3 @@
 # Academic Metatool JavaScript Library
 
-AMT js library
+basic AMT JavaScript library
